@@ -5,7 +5,7 @@ Dropify by Hubloy
 
 Override your input files with style.
 
-Demo here : [http://jeremyfagis.github.io/dropify](http://jeremyfagis.github.io/dropify/)
+Demo here : [https://hubloy.github.io/dropify/](https://hubloy.github.io/dropify/)
 
 
 ## Dependency
