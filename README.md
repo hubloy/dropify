@@ -1,8 +1,6 @@
-# ⚠️ Repository archived ⚠️
-
 ![Dropify](src/images/cover.jpg)
 
-Dropify
+Dropify by Hubloy
 =========
 
 Override your input files with style.
@@ -19,7 +17,7 @@ Demo here : [http://jeremyfagis.github.io/dropify](http://jeremyfagis.github.io/
 
 Clone the project in your workspace
 
-	$ git clone git@github.com:JeremyFagis/dropify.git
+	$ git clone git@github.com:hubloy/dropify.git
 	$ cd dropify
 
 Download packages
